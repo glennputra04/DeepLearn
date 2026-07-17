@@ -61,6 +61,6 @@ This repository serves as
 
 ---
 
-## 📌 Notes
+## Notes
 
 These projects were developed for educational purposes as part of university coursework. Some datasets may not be included due to licensing or file size limitations.
