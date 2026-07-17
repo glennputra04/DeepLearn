@@ -31,14 +31,15 @@ These projects were completed as part of the **Deep Learning** course.
 | BERT Liga Classification (Single & Double Model) | News classification of Indonesian football leagues using BERT-based models. |
 | Clustering vs BERT Topic Modeling on YouTube Comments | Comparison of clustering methods and BERTopic for topic modeling on YouTube comments. |
 | Basic ML + DL on Play Store Game Sentiment Analysis | Sentiment analysis of Google Play Store game reviews using both traditional Machine Learning and Deep Learning models. |
-| Transformer From Scratch VS MarianMT on Eng-Id Film Subtitle | Comparison between a Transformer model built from scratch and the pretrained MarianMT model for English–Indonesian subtitle translation. |
+| Transformer From Scratch VS MarianMT on Eng-Id Film Subtitle | Comparison between a Transformer model built from scratch and the pretrained MarianMT model for English-Indonesian subtitle translation. |
 
 ---
 
-## Other Course Projects
+## Other Projects
 
-The **Others** folder contains projects from additional university courses related to Artificial Intelligence, Machine Learning, Data Science, and other computing subjects.
-
+| Project | Description |
+|---------|-------------|
+| ED&TF English to French Machine Translation | Implementation and comparison of Encoder–Decoder and Transformer models for English-to-French neural machine translation, evaluating translation quality and model performance. |
 ---
 
 ## Technologies
