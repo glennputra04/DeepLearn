@@ -26,7 +26,12 @@ These projects were completed as part of the **Deep Learning** course.
 
 ## Text Mining Projects
 
-Projects developed for the **Text Mining** course, including Natural Language Processing (NLP), document classification, sentiment analysis, topic modeling, and other text analytics tasks.
+| Project | Description |
+|---------|-------------|
+| BERT Liga Classification (Single & Double Model) | News classification of Indonesian football leagues using BERT-based models. |
+| Clustering vs BERT Topic Modeling on YouTube Comments | Comparison of clustering methods and BERTopic for topic modeling on YouTube comments. |
+| Basic ML + DL on Play Store Game Sentiment Analysis | Sentiment analysis of Google Play Store game reviews using both traditional Machine Learning and Deep Learning models. |
+| Transformer From Scratch VS MarianMT on Eng-Id Film Subtitle | Comparison between a Transformer model built from scratch and the pretrained MarianMT model for English–Indonesian subtitle translation. |
 
 ---
 
